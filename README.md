@@ -1,16 +1,40 @@
-## Hi there 👋
+# AKDev_sudo
 
-<!--
-**AKDev-sudo/AKDev-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📡 **Telecommunications Engineering Student** at **University of Valladolid**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 **Interests**  
+🔹 **Cybersecurity**: Ethical hacking, penetration testing, network security, and vulnerability analysis.  
+🔹 **Software Development**: Secure development practices, DevSecOps, automation, and scripting.  
+🔹 Continuously learning in areas like **cryptography**, **information security**, and **forensics**.
+
+---
+
+## 💻 **Technologies & Languages**  
+🔹 **Python**  
+🔹 **C**  
+🔹 **JavaScript**  
+🔹 **Java**  
+🔹 **Linux**  
+🔹 **Git**
+
+---
+
+## 🏆 **Certifications**  
+🔹 **JavaScript Certification**
+
+---
+
+## 🤝 **Open to Collaboration**  
+🔹 Open to all types of projects to expand my knowledge and skills in the fields of cybersecurity and software development.
+
+---
+
+## 📧 **Contact**  
+🔹 Feel free to reach out to me via GitHub for any questions or collaboration opportunities.
+
+---
+
+## 🧠 **Motto**  
+🔹 **"Exploring the world of cybersecurity and development, forever curious."**
